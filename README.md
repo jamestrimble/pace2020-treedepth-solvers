@@ -5,4 +5,4 @@ The `exact-solvers` and `heuristic-solvers` directories each contain a README fi
 
 ## Contact
 
-j.trimble.1 at research dot gla dot uk
+j.trimble.1 at research dot gla dot ac dot uk
