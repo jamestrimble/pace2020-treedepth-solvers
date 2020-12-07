@@ -14,6 +14,11 @@ came first in the exact track of PACE 2020) and
 the heuristic solver [Tweed-Plus](https://drops.dagstuhl.de/opus/volltexte/2020/13338/) (which came fourth
 in the heuristic track) have been published in the IPEC 2020 proceedings.
 
+## Java version of Bute
+
+I have begun work on a [Java version](https://github.com/jamestrimble/bute) of the Bute solver.
+My aim is for this to be much more readable than the C version submitted to the PACE challenge.
+
 ## Contact
 
 j.trimble.1 at research dot gla dot ac dot uk
