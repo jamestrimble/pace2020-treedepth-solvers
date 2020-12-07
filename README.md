@@ -7,6 +7,13 @@ The `exact-solvers` and `heuristic-solvers` directories each contain a README fi
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3881441.svg)](https://doi.org/10.5281/zenodo.3881441)
 
+## Solver description papers
+
+Solver descriptions for the exact solver [Bute-Plus](https://drops.dagstuhl.de/opus/volltexte/2020/13337/) (which
+came first in the exact track of PACE 2020) and
+the heuristic solver [Tweed-Plus](https://drops.dagstuhl.de/opus/volltexte/2020/13338/) (which came fourth
+in the heuristic track) have been published in the IPEC 2020 proceedings.
+
 ## Contact
 
 j.trimble.1 at research dot gla dot ac dot uk
