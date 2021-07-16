@@ -7,17 +7,16 @@ The `exact-solvers` and `heuristic-solvers` directories each contain a README fi
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3881441.svg)](https://doi.org/10.5281/zenodo.3881441)
 
+## **Newer versions**
+
+The [`jamestrimble/bute` repository](https://github.com/jamestrimble/bute) contains two newer versions of the Bute solver: one written in C, and one in Java.  If you are looking for a fast, reliable solver without a heuristic presolver I recommend using either of the two new versions.  If you wish to compare against a published algorithm I recommend using the Bute-Plus solver in the current repository.
+
 ## Solver description papers
 
 Solver descriptions for the exact solver [Bute-Plus](https://drops.dagstuhl.de/opus/volltexte/2020/13337/) (which
 came first in the exact track of PACE 2020) and
 the heuristic solver [Tweed-Plus](https://drops.dagstuhl.de/opus/volltexte/2020/13338/) (which came fourth
 in the heuristic track) have been published in the IPEC 2020 proceedings.
-
-## Java version of Bute
-
-I have begun work on a [Java version](https://github.com/jamestrimble/bute) of the Bute solver.
-My aim is for this to be much more readable than the C version submitted to the PACE challenge.
 
 ## Contact
 
